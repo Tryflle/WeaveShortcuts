@@ -1,0 +1,9 @@
+package me.tryfle.shortcuts.utils
+
+class Config {
+    companion object Stored {
+        var commandToRun = "nr"
+        var shortenedCommand = "nr"
+        var shouldRegister = false
+    }
+}
