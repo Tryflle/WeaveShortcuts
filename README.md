@@ -1,0 +1,2 @@
+# WeaveShortcuts
+Make command shortcuts
