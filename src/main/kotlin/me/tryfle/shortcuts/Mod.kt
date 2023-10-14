@@ -11,5 +11,6 @@ class Mod: ModInitializer {
         println("[SC] Pre-Init phase")
         CommandBus.register(Registerer())
         Config.shouldRegister = false
+        Config.longCmd = false
     }
 }
